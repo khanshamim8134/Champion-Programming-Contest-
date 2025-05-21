@@ -6,6 +6,7 @@ In that contest , I accured The 1st place and became winner.. My handle was khan
 # Winner
 # Champion
 
+Here is the Ranklists -> https://www.hackerrank.com/contests/ict-cstu-programming-contest-final/leaderboard
+
 ![image alt](https://github.com/khanshamim8134/Champion-Programming-Contest-/blob/main/Screenshot%202025-05-21%20084056.png)
 
-Here is the Ranklists -> https://www.hackerrank.com/contests/ict-cstu-programming-contest-final/leaderboard
